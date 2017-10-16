@@ -1,0 +1,5 @@
+﻿Step 1: Put both files on your server in the place you want the.
+
+Step 2: Make sure you've got the latest version of PHP installed.
+
+Step 3: Done.
